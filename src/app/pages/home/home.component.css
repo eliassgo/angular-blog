@@ -1,0 +1,10 @@
+
+.articles{
+  margin: 0 30px;
+}
+.articles__main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  margin-top: 20px;
+}
